@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/BindChart/MainPage.xaml) (VB: [MainPage.xaml](./VB/BindChart/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/BindChart/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/BindChart/MainPage.xaml))
+* [ViewModel.cs](./CS/BindChart/ViewModel.cs) (VB: [ViewModel.vb](./VB/BindChart/ViewModel.vb))
+<!-- default file list end -->
 # How to: Bind a Chart to Data
 
 
